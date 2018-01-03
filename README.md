@@ -74,7 +74,7 @@ Project paper                |   20   |    25.0%   |
 |  Date   | Day |           Topic             | Readings | Homework |
 |---------|---|-------------------------------------|---------|-----|
 | Jan.  3 | W | Introduction                        |         |     |
-| Jan.  8 | M | Structural vs. reduced form disc.   | K2010   | PS1 |
+| Jan.  8 | M | Structural vs. reduced form disc.   | K2010   | [PS1](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS1/PS1.pdf) |
 |         |   |                                     | R2010   |     |
 | Jan. 10 | W | Maximum likelihood estimation (ML)  | Notes   |     |
 | Jan. 15 | M | **No class (Martin Luther King, Jr. Day)** |  |     |
