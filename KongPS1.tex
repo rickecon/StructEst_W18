@@ -1,0 +1,90 @@
+\documentclass[letterpaper,12pt]{article}
+\usepackage{array}
+\usepackage{threeparttable}
+\usepackage{geometry}
+\geometry{letterpaper,tmargin=1in,bmargin=1in,lmargin=1.25in,rmargin=1.25in}
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{}
+\rfoot{\footnotesize\textsl{Page \thepage\ of \pageref{LastPage}}}
+\renewcommand\headrulewidth{0pt}
+\renewcommand\footrulewidth{0pt}
+\usepackage[format=hang,font=normalsize,labelfont=bf]{caption}
+\usepackage{listings}
+\lstset{frame=single,
+  language=Python,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=3
+}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+\usepackage{harvard}
+\usepackage{setspace}
+\usepackage{float,color}
+\usepackage[pdftex]{graphicx}
+\usepackage{hyperref}
+\hypersetup{colorlinks,linkcolor=red,urlcolor=blue}
+\theoremstyle{definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{acknowledgement}[theorem]{Acknowledgement}
+\newtheorem{algorithm}[theorem]{Algorithm}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{case}[theorem]{Case}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{derivation}{Derivation} % Number derivations on their own
+\newtheorem{example}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{proposition}{Proposition} % Number propositions on their own
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+%\numberwithin{equation}{section}
+\bibliographystyle{aer}
+\newcommand\ve{\varepsilon}
+\newcommand\boldline{\arrayrulewidth{1pt}\hline}
+
+
+\begin{document}
+
+\begin{flushleft}
+  \textbf{\large{Problem Set 1}} \\
+  MACS 40200, Dr. Evans \\
+  Xianglong Kong
+\end{flushleft}
+
+\vspace{5mm}
+
+\noindent\textbf{Problem 2} \\
+As a believer to economic theory and structural modeling, I prefer doing empirical economic research in favor of structural estimation instead of pure reduced form estimation, not only to embrace the merits of the former but to avoid the drawbacks of the latter.
+
+Both structural estimation and reduced form estimation depend on a priori assumtptions, although it seems to many that structural models rely too much on assumptions while reduced forms are simple and straightforward. I would agree with Keane(2010) that it is better to make the assumptions explicit, which could be modified and improved over time. 
+
+Economic models are accompanied with assumptions on behaviors and environment, and models and assumptions can help us understand the inner workings of economic decisions, which can be used to interpret the data that applied to estimate such theoretical models. According to Keane(2010), parameters have clear economic interpretations in a structural approach with specific assumotions, and without assumptions reduced form analysis bears less economic meanings. Moreover, Econometricians need theoretical guidance, either explicit or implicit to researchers, before data analysis, and ``[they] cannot even begin the systematic assembly of facts and empirical regularities without a pre-existing theoretical framework that gives the facts meaning, and tells us which facts we should establish." 
+
+Accoding to Keane(2010), there are also drawbacks, which bias him in favor of structural estimation, about the popular approaches to reduced form analysis. Keane(2010) uses several simple examples, including the well-known Angrist(1990) research, to demonstrate that in instrumental variable approach, randomization does not guarantee exogeneity and that the interpretations are ambiguous without structural frameworks and assumptions. Sometimes there is even no valid IV available such as in the case of life-circle model with human capital investment. On the other hand, the advantages of reduced form analysis, which includes IV approach and difference-in-difference (DD) approach, vanish once it is clear that reduced forms also rely on assumptions.
+
+However, I would rather refute Keane(2010)'s argument that atheoretical approach has little contribution to the progress of disciplines. It is true that structural approach has generated successes in sciences, but it still suffers from model validation and identification problems. I would argue that such challenge could partly be addressed by combining a reduced from analysis with structral models, since a simple regression without many assumptions could help researchers form intuitions that exsiting models fail to take into account. Therefore, I would agree with Rust(2010) that structural approach and experimentalist approach are equally important. The more convenient and efficient approach is likely to be adopted by economists, and both of them can contribute to the progress of discipline regardless of their differences.
+
+\bibliography{StructuralEstimationPS1.bib}
+\nocite{*}
+\end{document}
+
