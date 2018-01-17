@@ -76,12 +76,12 @@ Project paper                |   20   |    25.0%   |
 | Jan.  3 | W | Introduction                        |         |     |
 | Jan.  8 | M | Structural vs. reduced form disc.   | K2010   | [PS1](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS1/PS1.pdf) |
 |         |   |                                     | R2010   |     |
-| Jan. 10 | W | Maximum likelihood estimation (ML)  | Notes   |     |
+| Jan. 10 | W | Maximum likelihood estimation (MLE)  | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/MLE/MLest.ipynb) |     |
 | Jan. 15 | M | **No class (Martin Luther King, Jr. Day)** |  |     |
-| Jan. 17 | W |                                     |         | PS2 |
-| Jan. 22 | M | Compare ML and GMM                  | FMS1995 |     |
-| Jan. 24 | W | Generalized method of moments (GMM) | Notes   | PS3 |
-| Jan. 29 | M |                                     | H1982   |     |
+| Jan. 17 | W | Maximum likelihood estimation (MLE)  | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/MLE/MLest.ipynb)  |     |
+| Jan. 22 | M | Compare ML and GMM                  | FMS1995 | [PS2](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS2/PS2.pdf) |
+| Jan. 24 | W | Generalized method of moments (GMM) | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS3](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS3/PS3.pdf) |
+| Jan. 29 | M | Generalized method of moments (GMM) | H1982   |     |
 | Jan. 31 | W | Simulated Method of Moments (SMM)   | Notes   | PS4 |
 | Feb.  5 | M |                                     | DM2004  |     |
 | Feb.  7 | W | Example proposal presentation       | S2008   |     |
