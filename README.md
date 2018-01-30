@@ -82,8 +82,8 @@ Project paper                |   20   |    25.0%   |
 | Jan. 22 | M | Compare ML and GMM                  | FMS1995 | [PS2](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS2/PS2.pdf) |
 | Jan. 24 | W | Generalized method of moments (GMM) | Notes   | [PS3](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 29 | M | Generalized method of moments (GMM) | H1982   |     |
-| Jan. 31 | W | Simulated Method of Moments (SMM)   | Notes   | PS4 |
-| Feb.  5 | M |                                     | DM2004  |     |
+| Jan. 31 | W | Simulated Method of Moments (SMM)   | Notes   |     |
+| Feb.  5 | M |                                     | DM2004  | [PS4](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS4/PS4.pdf) |
 | Feb.  7 | W | Example proposal presentation       | S2008   |     |
 | Feb. 12 | M | Workshop presentations              | ASV2013 | PS5 |
 | Feb. 14 | W | Student proposal presentation       |         | Prop|
