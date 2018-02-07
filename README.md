@@ -84,7 +84,8 @@ Project paper                |   20   |    25.0%   |
 | Jan. 29 | M | Generalized method of moments (GMM) | H1982   |     |
 | Jan. 31 | W | Simulated Method of Moments (SMM)   | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/SMM/SMMest.ipynb) |     |
 | Feb.  5 | M | Simulated Method of Moments (SMM)   | DM2004  | [PS4](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS4/PS4.pdf) |
-| Feb.  7 | W | Example proposal presentation       | S2008   |     |
+|         |   |                                     | S2008   |       |  
+| Feb.  7 | W | Example proposal presentation       | [Notes]()   |     |
 | Feb. 12 | M | Workshop presentations              | ASV2013 | [PS5](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS5/PS5.pdf) |
 | Feb. 14 | W | Student proposal presentation       |         | Prop |
 | Feb. 19 | M | Project: Data Description           |         |     |
