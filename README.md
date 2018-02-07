@@ -85,7 +85,7 @@ Project paper                |   20   |    25.0%   |
 | Jan. 31 | W | Simulated Method of Moments (SMM)   | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/SMM/SMMest.ipynb) |     |
 | Feb.  5 | M | Simulated Method of Moments (SMM)   | DM2004  | [PS4](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS4/PS4.pdf) |
 |         |   |                                     | S2008   |       |  
-| Feb.  7 | W | Proposal guidelines, example presentation, topics | [Notes]()   |     |
+| Feb.  7 | W | Proposal guidelines, example presentation, topics | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Project/Proposal/ProposalPresent.pdf)   |     |
 | Feb. 12 | M | Workshop presentations, sign up     |     | [PS5](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS5/PS5.pdf) |
 | Feb. 14 | W | Student proposal presentation       |         | Prop |
 | Feb. 19 | M | Project: Data Description           | ASV2013 |     |
