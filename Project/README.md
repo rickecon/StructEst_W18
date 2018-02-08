@@ -11,12 +11,11 @@ This page lists the projects and project members for each project group.
 
 February 12 meeting times
 
-| Time  | Students           |
-|-------|--------------------|
-| 1:30p | FirstName LastName |
-| 1:45p | FirstName LastName |
-| 2:00p | FirstName LastName |
-| 2:15p |                    |
-| 2:30p | Julio and Scott    | 
-|       |                    |
-| 2:45p |                    |
+| Time  | Students        |
+|-------|-----------------|
+| 1:30p |                 |
+| 1:45p |                 |
+| 2:00p |                 |
+| 2:15p |                 |
+| 2:30p | Julio and Scott | 
+| 2:45p |                 |
