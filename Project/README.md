@@ -4,10 +4,10 @@
 
 This page lists the projects and project members for each project group.
 
-| Project topic         | Project members    | Project sources    |
-|-----------------------|--------------------|--------------------|
-| "Research question 1" | Julio Brandao Roll and Scott Behmer | Akcigit and Kerr (2016) |
-| "Research question 2" | FirstName LastName | AuthorNames (2014) |
+| Project topic         | Project members                     | Project sources         |
+|-----------------------|-------------------------------------|-------------------------|
+| TBD                   | Julio Brandao Roll and Scott Behmer | Akcigit and Kerr (2016) |
+|                       |                                     |                         |
 
 February 12 meeting times
 
