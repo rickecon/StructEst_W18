@@ -76,23 +76,24 @@ Project paper                |   20   |    25.0%   |
 | Jan.  3 | W | Introduction                        |         |     |
 | Jan.  8 | M | Structural vs. reduced form disc.   | K2010   | [PS1](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS1/PS1.pdf) |
 |         |   |                                     | R2010   |     |
-| Jan. 10 | W | Maximum likelihood estimation (MLE)  | [Notes}(https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/MLE/MLest.ipynb) |     |
+| Jan. 10 | W | Maximum likelihood estimation (MLE)  | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/MLE/MLest.ipynb) |     |
 | Jan. 15 | M | **No class (Martin Luther King, Jr. Day)** |  |     |
-| Jan. 17 | W | Maximum likelihood estimation (MLE)  | [Notes}(https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/MLE/MLest.ipynb)  |     |
+| Jan. 17 | W | Maximum likelihood estimation (MLE)  |        |     |
 | Jan. 22 | M | Compare ML and GMM                  | FMS1995 | [PS2](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS2/PS2.pdf) |
-| Jan. 24 | W | Generalized method of moments (GMM) | Notes   | [PS3](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS3/PS3.pdf) |
+| Jan. 24 | W | Generalized method of moments (GMM) | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/GMM/GMMest.ipynb) | [PS3](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS3/PS3.pdf) |
 | Jan. 29 | M | Generalized method of moments (GMM) | H1982   |     |
-| Jan. 31 | W | Simulated Method of Moments (SMM)   | Notes   |     |
-| Feb.  5 | M |                                     | DM2004  | [PS4](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS4/PS4.pdf) |
-| Feb.  7 | W | Example proposal presentation       | S2008   |     |
-| Feb. 12 | M | Workshop presentations              | ASV2013 | PS5 |
-| Feb. 14 | W | Student proposal presentation       |         | Prop|
-| Feb. 19 | M | Project: Data Description           |         |     |
+| Jan. 31 | W | Simulated Method of Moments (SMM)   | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Notebooks/SMM/SMMest.ipynb) |     |
+| Feb.  5 | M | Simulated Method of Moments (SMM)   | DM2004  | [PS4](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS4/PS4.pdf) |
+|         |   |                                     | S2008   |       |  
+| Feb.  7 | W | Proposal guidelines, example presentation, topics | [Notes](https://github.com/rickecon/StructEst_W18/blob/master/Project/Proposal/ProposalPresent.pdf)   |     |
+| Feb. 12 | M | Workshop presentations, sign up     |     | [PS5](https://github.com/rickecon/StructEst_W18/blob/master/ProblemSets/PS5/PS5.pdf) |
+| Feb. 14 | W | Student proposal presentation       |         | Prop |
+| Feb. 19 | M | Project: Data Description           | ASV2013 |     |
 | Feb. 21 | W | Project: Model Description          |         |     |
 | Feb. 26 | M | Project: Estimation Section         |         |     |
 | Feb. 28 | W | Project: Concl., Intro., Abstract   |         |     |
-| Mar.  5 | M | Student project presentation        |         | Prst|
-| Mar.  7 | W | Student project presentation        |         | Prst|
+| Mar.  5 | M | Student project presentation        |         | Prsnt|
+| Mar.  7 | W | Student project presentation        |         | Prsnt|
 | Mar. 14 | W | Student project write-up is due     |         | Proj|
 
 
