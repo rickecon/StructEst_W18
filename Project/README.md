@@ -7,13 +7,13 @@ This page lists the projects and project members for each project group.
 | Project topic         | Project members                     | Project sources         |
 |-----------------------|-------------------------------------|-------------------------|
 | TBD                   | Julio Brandao Roll and Scott Behmer | Akcigit and Kerr (2016) |
-|                       |                                     |                         |
+| TBD                   | Hristiana Vidinova                  | TBD                     |
 
 February 12 meeting times
 
 | Time  | Students        |
 |-------|-----------------|
-| 1:30p |                 |
+| 1:30p | Hristiana and ? |
 | 1:45p |                 |
 | 2:00p |                 |
 | 2:15p |                 |
