@@ -94,7 +94,7 @@ Project paper                |   20   |    25.0%   |
 | Feb. 28 | W | Project: Concl., Intro., Abstract   |         |     |
 | Mar.  5 | M | Student project presentation        |         | Prsnt|
 | Mar.  7 | W | Student project presentation        |         | Prsnt|
-| Mar. 14 | W | Student project write-up is due     |         | Proj|
+| Mar. 16 | Fr | Student project write-up is due (5pm) |         | Proj |
 
 
 ## References ##
