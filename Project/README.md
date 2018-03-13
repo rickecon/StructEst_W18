@@ -19,3 +19,7 @@ February 12 meeting times
 | 2:15p |                 |
 | 2:30p | Julio and Scott | 
 | 2:45p |                 |
+
+## Project LaTeX template
+
+I have included a LaTeX project template in this directory `LaTeX_projtemplate.tex`.
