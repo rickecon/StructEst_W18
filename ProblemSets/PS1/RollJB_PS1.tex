@@ -1,0 +1,89 @@
+\documentclass[letterpaper,12pt]{article}
+\usepackage{array}
+\usepackage{threeparttable}
+\usepackage{geometry}
+\geometry{letterpaper,tmargin=1in,bmargin=1in,lmargin=1.25in,rmargin=1.25in}
+\usepackage{fancyhdr,lastpage}
+\pagestyle{fancy}
+\lhead{}
+\chead{}
+\rhead{}
+\lfoot{}
+\cfoot{}
+\rfoot{\footnotesize\textsl{Page \thepage\ of \pageref{LastPage}}}
+\renewcommand\headrulewidth{0pt}
+\renewcommand\footrulewidth{0pt}
+\usepackage[format=hang,font=normalsize,labelfont=bf]{caption}
+\usepackage{listings}
+\lstset{frame=single,
+  language=Python,
+  showstringspaces=false,
+  columns=flexible,
+  basicstyle={\small\ttfamily},
+  numbers=none,
+  breaklines=true,
+  breakatwhitespace=true
+  tabsize=3
+}
+\usepackage{amsmath}
+\usepackage{amssymb}
+\usepackage{amsthm}
+%\usepackage{harvard}
+\usepackage{setspace}
+\usepackage{float,color}
+\usepackage[pdftex]{graphicx}
+\usepackage{hyperref}
+\hypersetup{colorlinks,linkcolor=red,urlcolor=blue}
+\theoremstyle{definition}
+\newtheorem{theorem}{Theorem}
+\newtheorem{acknowledgement}[theorem]{Acknowledgement}
+\newtheorem{algorithm}[theorem]{Algorithm}
+\newtheorem{axiom}[theorem]{Axiom}
+\newtheorem{case}[theorem]{Case}
+\newtheorem{claim}[theorem]{Claim}
+\newtheorem{conclusion}[theorem]{Conclusion}
+\newtheorem{condition}[theorem]{Condition}
+\newtheorem{conjecture}[theorem]{Conjecture}
+\newtheorem{corollary}[theorem]{Corollary}
+\newtheorem{criterion}[theorem]{Criterion}
+\newtheorem{definition}[theorem]{Definition}
+\newtheorem{derivation}{Derivation} % Number derivations on their own
+\newtheorem{example}[theorem]{Example}
+\newtheorem{exercise}[theorem]{Exercise}
+\newtheorem{lemma}[theorem]{Lemma}
+\newtheorem{notation}[theorem]{Notation}
+\newtheorem{problem}[theorem]{Problem}
+\newtheorem{proposition}{Proposition} % Number propositions on their own
+\newtheorem{remark}[theorem]{Remark}
+\newtheorem{solution}[theorem]{Solution}
+\newtheorem{summary}[theorem]{Summary}
+%\numberwithin{equation}{section}
+\bibliographystyle{acm}
+\newcommand\ve{\varepsilon}
+\newcommand\boldline{\arrayrulewidth{1pt}\hline}
+
+\begin{document}
+
+\begin{flushleft}
+  \textbf{\large{Problem Set \#1}} \\
+  MACS 40200, Dr. Evans \\
+  Julio B. Roll
+\end{flushleft}
+
+\vspace{5mm}
+
+\noindent\textbf{Problem 2}
+The pseudo-dilemma between structural estimation and reduced form estimation (SE and RFE, respectively) stems from an \textit{argumentum ad hominem} agenda that has tainted what was supposed to be a logical decision. The "let the data speak" approach should also be used when choosing between two mathematical methods, each of which serve different purposes within the realm of research. In this sense, the SE approach ought to be brought back to the economist toolkit, since, within specific contexts, it is more far-reaching than its artificial contestant.
+
+Keane is right in saying that the RFE brings to the table many implicit (even hidden) assumptions, which makes it a better pill to swallow. Rust even adds that some of those assumptions are just more socially accepted (they are "good") than the parametric ones (which are "bad") usually required by the SE. However, this framework causes interpretability issues. In this sense, the "black-box" criticism directed at SE can also be made at RFE, since Angrist's -15\% result could be completely detached from reality. Without proper interpretation and framework, RFE is simply a slot machine that spits numbers, since one cannot differentiate between two mathematically equivalent but completely distinct models.
+
+On the other hand, SE, in establishing an explicit framework, provides answers to a broader set of questions, though such answers are, naturally, bound to the given framework. Nonetheless, Keane's and Rust's arguments are on the spot: a model is always a simplification of reality and can still be useful. Moreover, Economics faces a similar problem to Quantum Physics in the way that the idea of "raw data" is, in most settings, utopic. Most measurements, like elasticity or productivity, rely on a preconceived framework that provides meaning \textit{a priori} and are, thus, affected by it. As such, any result that stems from this data is built on empirical assumptions from the very start.
+
+Even though most of the criticism of SE can be traced to an incorrect interpretation of the scientific method, Keane presents a feeble argument: in dismissing the problem of nonparametric identification, Keane argues for "a certain primacy for validation exercises". In other words, the lack of identification is not an issue if the model gives a reasonable fit to reality. However, goodness of fit and identification are not equivalent and any researcher should be concerned with both. Although much is still unknown regarding identification, that should not be an excuse to simply ignore the underlying issue and focus on data fitting. Instead, the limitations in this area should be made explicit when interpreting results from SE models.
+
+Both SE and RFE are useful under different contexts. What blinds the researcher is the attempt to paint political colors over mathematical methods. Since Keane quoted Einstein, one should also read Claude Bernard, who argued that "the experimenter who does not know what he is looking for will not understand what he finds". The irrational fear of an explicit framework should be dismissed, giving room to a more widespread use of structural estimation.
+
+\nocite{*}
+\bibliography{RollJB_PS1}
+
+\end{document}
